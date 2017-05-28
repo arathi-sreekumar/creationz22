@@ -1,0 +1,23 @@
+#app .container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-header .container-fluid {
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.navbar {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    min-height: 0;
+    height: 80px;
+    rgba(255, 163, 26, 0.76);
+}
+
+.navbar-brand {
+    margin-top: 15px;
+}
